@@ -3,6 +3,8 @@
    :align: right
    :alt: Build status
 
+BoostCookie: I just want to test if CI is now working.
+
 Pexpect is a Pure Python Expect-like module
 
 Pexpect makes Python a better tool for controlling other applications.
